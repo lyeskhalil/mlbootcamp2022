@@ -2,3 +2,13 @@
 Material for the DSI-CARTE Machine Learning Bootcamp 2022
 
 Thank you for stopping by. Slides and code will be added here!
+
+
+
+## Day 1
+
+### Lab 1
+
+Basic Principles and Models 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_1_1_basics.ipynb)
