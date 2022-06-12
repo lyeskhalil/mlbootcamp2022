@@ -12,3 +12,10 @@ Thank you for stopping by. Slides and code will be added here!
 Basic Principles and Models 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_1_1_basics.ipynb)
+
+### Lab 2
+
+Support Vector Machines
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_1_2_svms.ipynb)
+
