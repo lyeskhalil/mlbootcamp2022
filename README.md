@@ -29,7 +29,7 @@ Decision Trees
 
 ### Lab 2
 
-Primary Component Analysis
+Clustering and Principal Component Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_2_2_pca.ipynb)
 
