@@ -33,3 +33,18 @@ Clustering and Principal Component Analysis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_2_2_pca.ipynb)
 
+## Day 3
+
+### Lab 1
+
+Neural Networks
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_3_1_neuralnets.ipynb)
+
+### Lab 2
+
+Autoencoders
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_3_2_autoencoders.ipynb)
+
+
