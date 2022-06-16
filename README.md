@@ -52,7 +52,7 @@ Autoencoders
 
 ### Lab 1
 
-Convolutional Networks (Note: Edits are still being made to this notebook!)
+Convolutional Networks
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_4_1_convnets.ipynb)
 
