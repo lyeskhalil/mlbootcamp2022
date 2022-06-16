@@ -52,8 +52,12 @@ Autoencoders
 
 ### Lab 1
 
+Convolutional Networks (Note: Edits are still being made to this notebook!)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_4_1_convnets.ipynb)
 
 ### Lab 2
+
+Recurrent Neural Networks (Note: Edits are still being made to this notebook!)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_4_2_rnn.ipynb)
