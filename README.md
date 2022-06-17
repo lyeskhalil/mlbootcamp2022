@@ -61,3 +61,10 @@ Convolutional Networks
 Recurrent Neural Networks
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/lab_4_2_rnn.ipynb)
+
+
+## Day 5
+
+Challenge:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lyeskhalil/mlbootcamp2022/blob/main/Spotify.ipynb)
